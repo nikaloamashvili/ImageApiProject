@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ImageApiProject</string>
+    <string name="search">Search...</string>
+    <string name="search_images">Search Images</string>
+    <string name="check_out_this_image">Check out this image!</string>
+    <string name="shared_image">Shared Image</string>
+    <string name="image">image/*</string>
+    <string name="share_image">Share Image</string>
+    <string name="failed_to_share_image">Failed to share image</string>
+    <string name="shared_image_png">shared_image.png</string>
+    <string name="images">images</string>
+    <string name="provider">%1$s.provider</string>
+    <string name="go">GO</string>
+    <string name="position">position</string>
+    <string name="no_images_found">No images found</string>
+</resources>
